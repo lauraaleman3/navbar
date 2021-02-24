@@ -1,0 +1,103 @@
+
+
+.btn {
+    filter: invert(100%); 
+      -webkit-filter: invert(100%);
+}
+
+.btnBack {
+    background-color: red;
+}
+
+.right {
+    text-align: right;
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    padding: 0px 10px 0px 0px;
+    color: white;
+}
+
+.rightBottom {
+    text-align: right;
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    padding: 20px 0px 0px 0px;
+    color: white;
+}
+
+.navbar-brand {
+    color: white;
+
+}
+
+.logoB {
+    background-color:red;
+ 
+}
+
+.btn.cart {
+    margin-left: -10px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+ }
+
+ .mini{
+    font-size: 15px;
+    color:teal;
+    }
+    
+    
+    #go{
+        font-size: 45px;
+    }
+    .boom{
+        color: red;
+    }
+    div table{
+        background-color: yellow;
+        color:black;
+        border: 5px dotted blue
+    }
+    #t1:hover{
+        color:purple;
+        padding: 16px;
+    }
+    #t2:hover{
+        color:pink;
+        padding: 16px;
+    }
+    .gif {
+        align-content: center;
+    }
+    body { 
+        background: url(../navbar/assets/images/mdogs.jpeg) no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+      }
+      #t1 {
+        font-family: 'Akaya Kanadaka', cursive;
+      }
+#t2 {
+    font-family: 'Akaya Kanadaka', cursive;
+font-family: 'Reggae One', cursive;
+}
+.g2 {
+    border: red solid 10px;
+    position:absolute;
+    right: 0px;
+}
+.gif {
+    border: purple solid 10px;
+}
